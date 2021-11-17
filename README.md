@@ -1,3 +1,3 @@
 # QuickPass
 
-Programėlė generuojanti saugų slaptažodį pagal vartotojo pasirinkimus.
+Programėlė generuoja saugų slaptažodį pagal vartotojo pasirinkimus.
